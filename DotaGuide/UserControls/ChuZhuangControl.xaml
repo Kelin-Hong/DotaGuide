@@ -1,0 +1,37 @@
+﻿<UserControl x:Class="Dota攻略宝典.UserControls.ChuZhuangControl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:kit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    d:DesignHeight="600" d:DesignWidth="480">
+    
+    <Grid x:Name="LayoutRoot">
+        <StackPanel Orientation="Vertical">
+        <TextBlock x:Name="tbl_Title" FontSize="40" Margin="10"></TextBlock>
+        <ListBox Height="450">
+             <ListBox.Items>
+                    <StackPanel Orientation="Vertical">
+                <TextBlock x:Name="tbl_ChuMenTitle" FontSize="30" Height="40" Text="出门装" ></TextBlock>
+                <kit:WrapPanel x:Name="wp_ChuMen"></kit:WrapPanel>
+                    <TextBlock  Margin="0,15,0,0" x:Name="tb1_ChuMenContent" TextWrapping="Wrap"></TextBlock>
+               </StackPanel>
+                <StackPanel Orientation="Vertical">
+                    <TextBlock x:Name="tbl_ZhongQiTitle" FontSize="30" Height="40" Text="中期核心装备" ></TextBlock>
+                    <kit:WrapPanel x:Name="wp_ZhongQi"></kit:WrapPanel>
+                    <TextBlock Margin="0,15,0,0" x:Name="tb1_ZhongQiContent" TextWrapping="Wrap"></TextBlock>
+                </StackPanel>
+                <StackPanel Orientation="Vertical">
+                    <TextBlock x:Name="tbl_HouQiTitle" FontSize="30" Height="40" Text="后期核心装备" ></TextBlock>
+                    <kit:WrapPanel x:Name="wp_HouQi"></kit:WrapPanel>
+                    <TextBlock x:Name="tb1_HouQiContent"  Margin="0,15,0,0"  TextWrapping="Wrap"></TextBlock>
+                </StackPanel>
+                </ListBox.Items>
+            </ListBox>
+        </StackPanel>
+    </Grid>
+</UserControl>

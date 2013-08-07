@@ -1,0 +1,719 @@
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\ApplicationIcon.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Background.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Dota攻略宝典.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Dota攻略宝典.pdb
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\AppManifest.xaml
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Dota攻略宝典.xap
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\obj\Debug\App.g.i.cs
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\obj\Debug\Dota攻略宝典.g.resources
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\obj\Debug\Dota攻略宝典.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\obj\Debug\Dota攻略宝典.pdb
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\obj\Debug\XapCacheFile.xml
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\obj\Debug\UserControls\HeroPovit.g.i.cs
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\ImageTools.Controls.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\ImageTools.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\ImageTools.Filtering.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\ImageTools.IO.Bmp.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\ImageTools.IO.Gif.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\ImageTools.IO.Png.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\ImageTools.Utils.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\PhoneCodeContractsAssemblies.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\ICSharpCode.SharpZLib.Phone.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\ImageTools.xml
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\ImageTools.Controls.xml
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\ImageTools.Filtering.xml
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\ImageTools.IO.Bmp.xml
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\ImageTools.IO.Gif.xml
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\ImageTools.IO.Png.xml
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\ImageTools.Utils.xml
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\obj\Debug\Views\MainPage.g.i.cs
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\obj\Debug\Views\SingleHero.g.i.cs
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\obj\Debug\UserControls\SingleHeroInfo.g.i.cs
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Images\xx_an.jpg
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Images\xx_liang.jpg
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\obj\Debug\UserControls\JiNengInfo.g.i.cs
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\obj\Debug\UserControls\Items.g.i.cs
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Alchemist.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Ancient_Appraition.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Anti-Mage.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Axe.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Bane_Elemental.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\BatRider.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Beastmaster.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\BloodSeeker.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Bone_Fletcher.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Bounty_Hunter.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Bristleback.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Broodmother.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Butcher.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Centaur_Warchief.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Chaos_Knight.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Clockwerk_Goblin.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Crystal_Maiden.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Dark_Seer.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Death_Prophet.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Demon_Witch.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Doom_bringer.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Dragon_Knight.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Drow_Ranger.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Dwarven_Sniper.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Earthshaker.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Enchantress.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Enigma.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Faceless_Void.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Faerie_Dragon.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Far_Seer.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Geomancer.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Goblin_Techies.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Gorgon.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Guardian_Wisp.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Gyrocopter.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Holy_Knight.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Invoker.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Juggernaut.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Keeper_of_the_Light.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Lich.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Lifestealer.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Lightning_Revenant.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Lone_Druid.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Lord_of_Avernus.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Lord_of_Olympia.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Lycanthrope.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Magnataur.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Moon_Rider.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Morphling.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Murloc_Nightcrawler.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Naga_Siren.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Necrolic.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Necrolyte.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Nerubian_Assassin.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Nerubian_Weaver.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Netherdrake.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Night_Stalker.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Oblivion.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Obsidian_Destroyer.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Ogre_Magi.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Omniknight.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Pandaren_Brewmaster.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Phantom_Assassin.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Phantom_Lancer.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\phoenix.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Pit_Lord.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Priestess_of_the_Moon.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Prophet.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Queen_of_Pain.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Rogue_Knight.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Sacred_Warrior.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Sand_King.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Shadow_Demon.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Shadow_Fiend.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Shadow_Priest.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Shadow_Shaman.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Silencer.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Skeleton_King.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Slayer.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Slithereen_Guard.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Soul_Keeper.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Spectre.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Spiritbreaker.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Stealth_Assassin.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Stone_Giant.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Storm_Spirit.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Tauren_Chieftain.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Templar_Assassin.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Tidehunter.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Tinker.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Tormented_Soul.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Treant_Protector.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Troll_Warlord.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Tuskarr.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Twin_Head_Dragon.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Undying.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Ursa_Warrior.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Vengeful_Spirit.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Venomancer.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Warlock.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Windrunner.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Avatars\Witch_Doctor.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\admiral proudmoore.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\alchemist.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\ancient appraition.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\anti-mage.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\axe.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\bane elemental.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\beastmaster.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\blood seeker.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\bone fletcher.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\bounty hunter.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\bristleback.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\broodmother.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\butcher.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\cairne bloodhoof.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\centaur warchief.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\chaos knight.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\clockwerk goblin.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\crystal maiden.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\dark seer.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\death prophet.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\demon witch.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\doombringer.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\dragon knight.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\drow ranger.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\dwarven sniper.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\earthshaker.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\ember spirit.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\enchantress.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\enigma.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\faceless void.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\faerie dragon.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\far seer.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\geomancer.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\goblin shredder.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\goblin techies.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\gorgon.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\guardian wisp.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\gyrocopter.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\holy knight.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\invoker.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\jin'zakk.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\juggernaut.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\keeper of the light.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\legion commander.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\lich.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\lifestealer.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\lightning revenant.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\lone druid.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\lord of avernus.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\lord of olympia.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\lycanthrope.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\magnataur.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\moon rider.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\morphling.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\murloc nightcrawler.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\naga siren.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\necrolic.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\necrolyte.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\nerubian assassin.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\nerubian weaver.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\netherdrake.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\night stalker.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\oblivion.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\obsidian destroyer.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\ogre magi.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\omniknight.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\pandaren brewmaster.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\phantom assassin.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\phantom lancer.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\phoenix.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\pit lord.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\priestess of the moon.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\prophet.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\queen of pain.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\rogue knight.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\sacred warrior.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\sand king.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\shadow demon.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\shadow fiend.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\shadow priest.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\shadow shaman.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\silencer.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\skeleton king.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\skywrath mage.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\slayer.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\slithereen guard.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\soul keeper.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\spectre.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\spiritbreaker.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\stealth assassin.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\stone giant.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\storm spirit.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\templar assassin.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\the grand magus.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\tidehunter.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\tinker.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\tormented soul.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\treant protector.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\troll warlord.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\tuskarr.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\twin head dragon.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\undying.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\ursa warrior.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\vengeful spirit.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\venomancer.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\warlock.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\windrunner.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Heros\witch doctor.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Acid Spray.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Adaptive Strike.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Aftershock.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Amplify Damage.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Ancestral Spirit.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Anchor Smash.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Ancient Seal.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Aphotic Shield.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Arc Lightning.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Arcane Bolt.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Arcane Orb.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Assassinate.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Astral Imprisonment.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Avalanche.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Backstab.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Backtrack.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Bash.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Battle Hunger.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Battle Trance.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Berserker Rage.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Berserker’s Blood.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Berserker’s Call.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Black Hole.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Blade Dance.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Blade Fury.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Blink Strike.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Blink.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Blood Bath.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Bloodlust.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Bloodrage.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Blur.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Borrowed Time.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Brain Sap.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Breathe Fire.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Brilliance Aura.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Bristleback.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Burning Spear.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Burrowstrike.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Call Down.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Call of the Wild.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Carrion Swarm.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Caustic Finale.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Chain Frost.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Chakra Magic.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Chakram.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Chaos Bolt.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Charge of Darkness.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Chemical Rage.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Chilling Touch.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Chronosphere.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Cold Feet.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Command Aura.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Concussive Shot.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Conversion.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Corrosive Skin.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Counter Helix.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Coup de grâce.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Craggy Exterior.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Crippling Fear.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Critical Strike..png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Critical Strike.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Crystal Nova.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Culling Blade.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Curse of the Silent.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Dark Pact.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Dark Rift.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Dark Ritual.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Darkness.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Death Coil.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Death Pact.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Death Pulse.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Death Ward.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Decay.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Decrepify.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Degen Aura.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Demonic Purge.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Desolate.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Devour.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Diabolic Edict.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Diffusion Aura.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Dismember.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Dispersion.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Divided We Stand.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Doom.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Doppelwalk.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Double Edge.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Dragon Blood.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Dragon Slave.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Dragon Tail.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Dream Coil.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Drunken Brawler.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Drunken Haze.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Dsruption.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Dual Breath.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Duel.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Earth Splitter.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Earthbind.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Earthshock.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Echo Slam.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Echo Stomp.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Eclipse.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Elder Dragon Form.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Electric Rave.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Electric Vortex.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Elune’s Arrow.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Empower.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Empowering Haste.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Enchant Totem.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Enchant.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Enfeeble.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Enrage.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Ensnare.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Epicenter.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Essence Aura.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Essence Shift.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Exorcism.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Expulsion.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Eye of the Storm.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Fade Bolt.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Fatal Bonds.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Feast.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Feral Heart.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Fervor.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Fiend’s Grip.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Fiery Soul.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Finger of Death.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Fire blast.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Fire Remnant.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Fire Spirits.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Firefly.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Firestorm.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Fissure.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Flak Cannon.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Flame Guard.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Flamebreak.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Flaming Lasso.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Flesh Golem.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Flesh Heap.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Focus Fire.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Force of Nature.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Forked Lightning.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Freezing Field.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Frost Armor.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Frost Arrows.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Frost bite.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Frost Nova.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Frostmourne.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Frozen Sigil.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Fury Swipes.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Geminate Attack.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Geostrike.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Ghost_Ship.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Glaives of Wisdom.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Glimpse.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Global Silence.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Goblin’s Greed.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\God’s Strength.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Grave Chill.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Gravekeeper’s Cloak.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Great Cleave.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Great Fortitude.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Greater Bash.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Grow.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Guardian Angel.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Gush.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Hand of God.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Haunt.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Headshot.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Healing Ward.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Heat Seeking Missile.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Holy Persuasion.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Homing Missile.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Hoof Stomp.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Howl.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Hunter in the Night.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Icarus Dive.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Ice Blast.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Ice Path.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Ice Shards.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Ice Vortex.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Ignite.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Illuminate.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Illusory Orb.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Impale.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Impetus.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Incapacitating Bite.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Infest.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Inner Beast.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Inner Vitality.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Insatiable Hunger.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Ion Shell.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Jinada.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Kinetic Field.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Kraken Shell.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Laguna Blade.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Land Mines.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Laser.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Last Word.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Leap.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Leech Seed.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Life Break.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Life Drain.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Light Strike Array.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Lightning Bolt.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Lightning Grapple.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Lightning Storm.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Liquid Fire.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Living Armor.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Lucent Beam.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Lunar Blessing.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\LVL Death.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Macropyre.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Magic Missile.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Maledict.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Malefice.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Mana Break.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Mana Drain.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Mana Leak.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Mana Shield.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Mana Void.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\March of the Machines.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Marksmanship.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Mass Serpent Ward.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Meat Hook.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Meld.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Metamorphosis.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Midnight Pulse.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Mirror Image.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Moment of Courage.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Moon Glaive.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Moonlight Shadow.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Morph.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Multi Cast.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Mystic Flare.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Mystic Snake.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Natural Order.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Nature’s Attendants.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Nature’s Guise.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Necromastery.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Nether Blast.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Nether Strike.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Nether Swap.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Nether Ward.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Nethertoxin.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Nightmare.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Null Field.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Omnislash.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Open Wounds.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Overcharge.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Overgrowth.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Overload.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Overpower.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Overwhelming Odds.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Paralyzing Cask.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Penitence.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Permanent Invisibility.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Phantasm.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Phantom Edge.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Phantom Strike.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Phase Shift.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Pit of Malice.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Plague Ward.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Plasma Field.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Poison Attack.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Poison Nova.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Poison Sting.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Poison Touch.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Poof.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Pounce.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Powershot.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Presence of the Dark Lord.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Press The Attack.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Primal Roar.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Primal Split, Earth, And Fire.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Psi Blades.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Psionic Trap.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Pulse Nova.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Purification.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Quill Spray.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Rabid.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Rage.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Rain of Chaos.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Raise Revenants.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Ravage.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Reactive Armor.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Reality Rift.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Reaper’s Scythe.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Rearm.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Refraction.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Reincarnation.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Relocate.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Remote Mines.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Repel.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Replicate.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Requiem of Souls.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Return.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Reverse Polarity.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Rip Tide.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Rocket Barrage.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Rot.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Rupture.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Sadist.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Sand Storm.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Sanity’s Eclipse.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Scorched Earth.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Scream of Pain.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Searing Arrows.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Searing Chains.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Shackles.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Shackleshot.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Shadow Dance.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Shadow Poison.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Shadow Strike.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Shadow Wave.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Shadow Word.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Shadowraze.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Shallow Grave.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Shapeshift.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Shockwave.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Shrapnel.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Shukuchi.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Shuriken Toss.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Silence.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Skewer.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Sleight of Fist.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Slithereen Crush.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Smoke Screen.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Snowball.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Song of the Siren.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Sonic Wave.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Soul Assumption.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Soul Catcher.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Soul Rip.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Soul Steal.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Spawn Spiderlings.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Spectral Dagger.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Spell Shield.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Spell Steal.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Spin Web.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Spirit Form.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Spirit Lance.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Spirits.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Split Earth.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Split Shot.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Sprint.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Sprout.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Starfall.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Stasis Trap.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Static Field.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Static Link.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Static Storm.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Sticky Napalm.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Stone Gaze.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Storm Bolt.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Strafe.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Strygwyr’s Thirst.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Suicide Squad, Attack!.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Summon Spirit Bear.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Summon Wolves.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Sun Ray.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Sunder.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Supernova.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Surge.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Swarm.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Synergy.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Take Aim.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Telekinesis.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Teleportation.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Test of Faith.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Tether.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Thunder Clap.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Thunder Strike.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Thundergods Wrath.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Tidebringer.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Timber Chain.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Time Lapse.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Time Lock.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Time Walk.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Tombstone.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Torrent.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Toss.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Track.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\True Form.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Trueshot Aura.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Unstable Concoction.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Unstable Current.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Untouchable.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Upheaval.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\uxtapose.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Vacuum.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Vampiric Aura.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Venomous Gale.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Viper Strike.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Viscous Nasal Goo.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Void.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Voodoo Restoration.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Voodoo.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Wall of Replica.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Walrus Punch.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Waning Rift.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Warcry.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Warpath.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Waveform.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Weave.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Whirling Axes.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Whirling Death.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Wild Axes.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Wind Walk.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Windrunner.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Witchcraft.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\Wrath of Nature.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\X Mark the spot.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\zeal.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\发射钩爪.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\弹幕冲击.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\恐怖.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\照明火箭.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\JiNengs\能量齿轮.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Images\background.jpg
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Images\1.jpg
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Images\10.jpg
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Images\11.jpg
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Images\12.jpg
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Images\13.jpg
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Images\2.jpg
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Images\3.jpg
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Images\4.jpg
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Images\5.jpg
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Images\6.jpg
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Images\7.jpg
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Images\8.jpg
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Images\9.jpg
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Images\background1.jpg
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\obj\Debug\UserControls\ChuZhuangControl.g.i.cs
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Images\appbar.cancel.rest.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Images\appbar.close.rest.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Images\background2.jpg
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\obj\Debug\UserControls\Waiting.g.i.cs
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Assets\loading001.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Assets\loading002.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Assets\loading003.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Assets\loading004.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Assets\loading005.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Assets\loading006.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Assets\loading007.png
+C:\Users\hkl\Documents\Visual Studio 2010\Projects\WindowsPhone_Application\Dota\Dota攻略宝典\Bin\Debug\Assets\loading008.png

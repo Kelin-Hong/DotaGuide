@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="Dota攻略宝典.UserControls.JiNengInfo"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:it="clr-namespace:ImageTools.Controls;assembly=ImageTools.Controls"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    d:DesignHeight="800" d:DesignWidth="480">
+    
+    <Grid x:Name="LayoutRoot">
+        <ListBox x:Name="lb_Jineng">
+            <ListBox.ItemTemplate>
+            <DataTemplate>
+                    <StackPanel Orientation="Vertical">
+                        <!--<it:AnimatedImage x:Name="image_Avatar" Source="{Binding Path=Src}" Width="200" Height="200"></it:AnimatedImage>-->
+                        <Image  x:Name="image_Avatar" Source="{Binding Path=Src}" Width="200" Height="200"></Image>
+                        <TextBlock x:Name="tbl_Name"  Text="{Binding Path=NameAndShort}" FontSize="30"></TextBlock>
+                        <TextBlock x:Name="tbl_Intro" TextWrapping="Wrap"  Text="{Binding Path=Intro}"></TextBlock>
+                        <TextBlock x:Name="tbl_Gread1" TextWrapping="Wrap"  Text="{Binding Path=Gread1}"></TextBlock>
+                        <TextBlock x:Name="tbl_Gread2" TextWrapping="Wrap"  Text="{Binding Path=Gread2}"></TextBlock>
+                        <TextBlock x:Name="tbl_Gread3" TextWrapping="Wrap"  Text="{Binding Path=Gread3}"></TextBlock>
+                        <TextBlock x:Name="tbl_Gread4" TextWrapping="Wrap"   Text="{Binding Path=Gread4}"></TextBlock>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</UserControl>
